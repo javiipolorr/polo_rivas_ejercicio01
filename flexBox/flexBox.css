@@ -1,0 +1,24 @@
+.cabecera {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+}
+
+.menu {
+    margin-top: 10px; 
+    margin-left: auto;}
+
+.menu ul {
+    display: flex;
+    list-style-type: none; 
+    padding: 0;
+    margin: 0;
+}
+
+.menu ul li {
+    margin-left: 10px; 
+}
+
+.menu ul li:first-child {
+    margin-left: 0; 
+}
