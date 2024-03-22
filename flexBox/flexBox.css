@@ -22,3 +22,7 @@
 .menu ul li:first-child {
     margin-left: 0; 
 }
+
+.inicio{
+    display: flex;
+}
